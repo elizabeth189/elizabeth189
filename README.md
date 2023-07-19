@@ -2,7 +2,7 @@
 
 I’m Elizabeth, a new full-stack engineer who specializes in front-end development. I graduated from the University of Richmond in May 2021. I then successfully completed and earned my certificate from UR again after finished their Coding Bootcamp.
 
-Want to know more about me? [Check out my portfolio.](https://coming soon)
+Want to know more about me? Check out my portfolio. 
 <br>
 ## 💼 Skills
 
